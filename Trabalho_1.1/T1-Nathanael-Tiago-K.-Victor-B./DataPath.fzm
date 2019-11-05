@@ -1,0 +1,582 @@
+## File last modified by Fizzim: 17:17:15 on 11/09/16
+<version>
+   14.02.26
+</version>
+<globals>
+   <machine>
+      <name>
+            <status>
+            ABS
+            </status>
+         <value>
+         def_name
+            <status>
+            GLOBAL_VAR
+            </status>
+         </value>
+         <vis>
+         0
+            <status>
+            GLOBAL_VAR
+            </status>
+         </vis>
+         <type>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </type>
+         <comment>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </comment>
+         <color>
+         -16777216
+            <status>
+            GLOBAL_VAR
+            </status>
+         </color>
+         <useratts>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </useratts>
+         <resetval>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </resetval>
+         <x2Obj>
+         0
+         </x2Obj>
+         <y2Obj>
+         0
+         </y2Obj>
+         <page>
+         -1
+         </page>
+      </name>
+      <clock>
+            <status>
+            ABS
+            </status>
+         <value>
+         clk
+            <status>
+            GLOBAL_VAR
+            </status>
+         </value>
+         <vis>
+         0
+            <status>
+            GLOBAL_VAR
+            </status>
+         </vis>
+         <type>
+         posedge
+            <status>
+            GLOBAL_VAR
+            </status>
+         </type>
+         <comment>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </comment>
+         <color>
+         -16777216
+            <status>
+            GLOBAL_VAR
+            </status>
+         </color>
+         <useratts>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </useratts>
+         <resetval>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </resetval>
+         <x2Obj>
+         0
+         </x2Obj>
+         <y2Obj>
+         0
+         </y2Obj>
+         <page>
+         -1
+         </page>
+      </clock>
+   </machine>
+   <inputs>
+   </inputs>
+   <outputs>
+   </outputs>
+   <state>
+      <name>
+            <status>
+            ABS
+            </status>
+         <value>
+         S00
+            <status>
+            GLOBAL_VAR
+            </status>
+         </value>
+         <vis>
+         1
+            <status>
+            GLOBAL_VAR
+            </status>
+         </vis>
+         <type>
+         def_type
+            <status>
+            GLOBAL_VAR
+            </status>
+         </type>
+         <comment>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </comment>
+         <color>
+         -16777216
+            <status>
+            GLOBAL_VAR
+            </status>
+         </color>
+         <useratts>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </useratts>
+         <resetval>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </resetval>
+         <x2Obj>
+         0
+         </x2Obj>
+         <y2Obj>
+         0
+         </y2Obj>
+         <page>
+         -1
+         </page>
+      </name>
+   </state>
+   <trans>
+      <name>
+            <status>
+            ABS
+            </status>
+         <value>
+         def_name
+            <status>
+            GLOBAL_VAR
+            </status>
+         </value>
+         <vis>
+         0
+            <status>
+            GLOBAL_VAR
+            </status>
+         </vis>
+         <type>
+         def_type
+            <status>
+            GLOBAL_VAR
+            </status>
+         </type>
+         <comment>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </comment>
+         <color>
+         -16777216
+            <status>
+            GLOBAL_VAR
+            </status>
+         </color>
+         <useratts>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </useratts>
+         <resetval>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </resetval>
+         <x2Obj>
+         0
+         </x2Obj>
+         <y2Obj>
+         0
+         </y2Obj>
+         <page>
+         -1
+         </page>
+      </name>
+      <equation>
+            <status>
+            ABS
+            </status>
+         <value>
+         1
+            <status>
+            GLOBAL_VAR
+            </status>
+         </value>
+         <vis>
+         1
+            <status>
+            GLOBAL_VAR
+            </status>
+         </vis>
+         <type>
+         def_type
+            <status>
+            GLOBAL_VAR
+            </status>
+         </type>
+         <comment>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </comment>
+         <color>
+         -16777216
+            <status>
+            GLOBAL_VAR
+            </status>
+         </color>
+         <useratts>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </useratts>
+         <resetval>
+         
+            <status>
+            GLOBAL_VAR
+            </status>
+         </resetval>
+         <x2Obj>
+         0
+         </x2Obj>
+         <y2Obj>
+         0
+         </y2Obj>
+         <page>
+         -1
+         </page>
+      </equation>
+   </trans>
+</globals>
+<tabs>
+   Page 1
+</tabs>
+## START PREFERENCES
+<SCounter>
+38
+</SCounter>
+<TCounter>
+15
+</TCounter>
+<TableVis>
+false
+</TableVis>
+<TableSpace>
+20
+</TableSpace>
+<TableFont>
+Arial
+11
+</TableFont>
+<TableColor>
+-65485
+</TableColor>
+<Font>
+Arial
+30
+</Font>
+<Grid>
+false
+45
+</Grid>
+<PageSizeW>
+2480
+</PageSizeW>
+<PageSizeH>
+3508
+</PageSizeH>
+<StateW>
+450
+</StateW>
+<StateH>
+450
+</StateH>
+## END PREFERENCES
+## START OBJECTS
+<textObj>
+fzm_globalTable
+   <x>
+   10
+   </x>
+   <y>
+   10
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+sumAngle - angle
+   <x>
+   1589
+   </x>
+   <y>
+   1331
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+it - i
+   <x>
+   988
+   </x>
+   <y>
+   1343
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+xNew = x - (y>>i)
+   <x>
+   1921
+   </x>
+   <y>
+   1864
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+xNew = x + (y>>i)
+   <x>
+   1310
+   </x>
+   <y>
+   1861
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+yNew = y + (x>>i)
+   <x>
+   1929
+   </x>
+   <y>
+   2441
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+yNew = y - (x>>i)
+   <x>
+   1313
+   </x>
+   <y>
+   2448
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+sumAngle = sumAngle - angleTable[i]
+   <x>
+   1116
+   </x>
+   <y>
+   3011
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+sumAngle = sumAngle + angleTable[i]
+   <x>
+   1717
+   </x>
+   <y>
+   3011
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+it = data
+   <x>
+   945
+   </x>
+   <y>
+   746
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+i = 0
+   <x>
+   945
+   </x>
+   <y>
+   777
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+angle = (data <<= 24)
+   <x>
+   762
+   </x>
+   <y>
+   157
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+sumAngle = 0
+   <x>
+   763
+   </x>
+   <y>
+   193
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+y = 0
+   <x>
+   765
+   </x>
+   <y>
+   225
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+x = 0x9B74ED
+   <x>
+   766
+   </x>
+   <y>
+   256
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+x = xNew
+   <x>
+   458
+   </x>
+   <y>
+   2438
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+y = yNew
+   <x>
+   458
+   </x>
+   <y>
+   2470
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+i++
+   <x>
+   458
+   </x>
+   <y>
+   2502
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+cos = x
+   <x>
+   53
+   </x>
+   <y>
+   1304
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+<textObj>
+sen = y
+   <x>
+   53
+   </x>
+   <y>
+   1333
+   </y>
+   <page>
+   1
+   </page>
+</textObj>
+## END OBJECTS
