@@ -1,2 +1,2 @@
-# Projeto-de-Sistemas-Digitais
-3º Semestre do curso de Engenharia da Computação - UFSM
+# Digital Systems Design
+Digital Systems Design material from 3nd semester of Computer Engineering - UFSM.
